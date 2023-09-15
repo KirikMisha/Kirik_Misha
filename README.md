@@ -1,2 +1,2 @@
 # Kirik_Misha
-![Java](https://img.shields.io/badge/язык-JavaScript-yellow)
+![Java](https://img.shields.io/badge/язык-Java)
