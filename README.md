@@ -1,5 +1,10 @@
 # Kirik_Misha
-![Java](https://img.shields.io/badge/Java-Java)
+![Язык](https://img.shields.io/badge/язык-Java-red)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-основной%20язык-green)
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![SQL](https://img.shields.io/badge/SQL-lightgrey)
+
 # website_offline
 
 ## Описание
